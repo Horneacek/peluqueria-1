@@ -1,3 +1,3 @@
 <?php
-$con = new mysqli ("localhost", "root", "", "peluqueria");
+$con = new mysqli ("localhost", "root", "", "lamia");
 ?>
